@@ -13,16 +13,16 @@ Activate the extension by going to the "View" menu and click on "Now Playing Rad
 CONFIG:
 In the config variable in the script you can setup the pattern for converting to the metadata into your now_playing.txt content.
 Some common meta keys:
-description,
-date,
-artwork_url,
-genre,
-track_total,
-album,
-track_number,
-filename,
-publisher,
-copyright,
-artist,
-language,
-title
+* description
+* date
+* artwork_url
+* genre
+* track_total
+* album
+* track_number
+* filename
+* publisher
+* copyright
+* artist
+* language
+* title
